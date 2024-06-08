@@ -6,6 +6,9 @@ html2canvas 能够实现在用户浏览器端直接对整个或部分页面进�
 ## 关于兼容性
 此插件只适用于APP项目（Android/Ios）、Web项目，不支持小程序！！
 
+## CDN加速推荐
+【cloudflare】(https://cloudflare.com)
+
 ## 使用说明
 1. 请先安装html2canvas，在项目根目录执行 npm install html2canvas --save
 2. 为避免出现跨域问题，建议将图片转为Base64字符串后使用。
